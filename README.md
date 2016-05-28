@@ -1,2 +1,2 @@
 # vacform
-Open Source Vacuum Former Software
+Open Source Vacuum Former
